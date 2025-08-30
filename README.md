@@ -1,6 +1,6 @@
 # Hey, I’m Lizzie 🚀  
 
-![Lizzie Runner Banner](https://github.com/lizzierunner/lizzierunner/blob/main/banner.png)
+![Lizzie Runner Banner](https://raw.githubusercontent.com/lizzierunner/lizzierunner/main/banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&vCenter=true&width=1000&lines=Hey+I'm+Lizzie+🚀;Full+Stack+Web+Dev+Student+@+ASU;Creator+of+the+Murder+Mystery+Running+App;Runner+from+Zombies+%26+Coder+of+Stories;Don't+Panic+✌️;Powered+by+Coffee+%26+Bad+Puns)](https://git.io/typing-svg)
 
@@ -27,13 +27,13 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/lizzierunner/lizzierunner/blob/main/paw-divider.png" alt="Paw print divider" width="600">
+  <img src="https://raw.githubusercontent.com/lizzierunner/lizzierunner/main/paw-divider.png" alt="Paw print divider" width="600">
 </p>
 
 ## 🐾 Coding Mascot: Weezer
 
 <p align="center">
-  <img src="https://github.com/lizzierunner/lizzierunner/blob/main/weezer.jpg" alt="Weezer the Dachshund" width="400" style="border-radius:15px; box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
+  <img src="https://raw.githubusercontent.com/lizzierunner/lizzierunner/main/weezer.jpg" alt="Weezer the Dachshund" width="400" style="border-radius:15px; box-shadow: 0px 4px 8px rgba(0,0,0,0.3);">
 </p>
 
 <p align="center">
