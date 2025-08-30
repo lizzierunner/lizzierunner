@@ -1,4 +1,4 @@
-# Hey, I’m Elizabeth but I go by Lizzie 🚀  
+# Hi There! I’m Elizabeth but I go by Lizzie 🚀  
 
 💻 Full Stack Web Dev student @ ASU  
 🕵️ Creator of the **Murder Mystery Running App** (solve crimes while you sweat!)  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🎉 Fun Widgets
+## 🎉 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&vCenter=true&width=650&lines=Full+Stack+Web+Dev+%40+ASU;Creator+of+the+Murder+Mystery+Running+App;Code+%2B+Design+%2B+Storytelling+%3D+💖;Powered+by+coffee+and+bad+puns)](https://git.io/typing-svg)
 
