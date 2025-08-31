@@ -9,7 +9,7 @@
 
 ---
 
-## 🎉 Fun Widgets
+## 🎉  Widgets
 ![Lizzie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizzierunner&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizzierunner&layout=compact&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=lizzierunner&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
@@ -63,7 +63,7 @@
 
 ---
 
-## 🎭 Badges
+## 🎭  Badges
 ![Runner](https://img.shields.io/badge/🏃-Runner-lightgreen)  
 ![Towel Carrier](https://img.shields.io/badge/🧳-Towel_Carrier-blue)  
 ![Coffee Lover](https://img.shields.io/badge/☕-Caffeine_Addict-orange)  
